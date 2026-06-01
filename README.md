@@ -8,6 +8,7 @@ Garmin and your data never leaves your machine.
 1. Grab the file for your computer from **[Releases](../../releases/latest)** and unzip:
    - **Mac** → `run-mcp-macOS.zip`
    - **Windows** → `run-mcp-Windows.zip`
+   - **Linux** → `run-mcp-Linux.zip`
 2. **Open `GarminRunningClub`** (first time: Mac → right-click → Open; Windows → "More info" → Run anyway).
 3. Your browser opens a **login page** → enter your Garmin email/password (+ 2-step code if asked) → **Connect**.
 
@@ -21,3 +22,4 @@ then restart that app). **ChatGPT** is supported too via the **Connect to ChatGP
 ## Direct links (latest)
 - Mac: `https://github.com/jw3329/run-mcp-app/releases/latest/download/run-mcp-macOS.zip`
 - Windows: `https://github.com/jw3329/run-mcp-app/releases/latest/download/run-mcp-Windows.zip`
+- Linux: `https://github.com/jw3329/run-mcp-app/releases/latest/download/run-mcp-Linux.zip`
