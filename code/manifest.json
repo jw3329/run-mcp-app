@@ -1,8 +1,8 @@
 {
-  "version": 17,
+  "version": 21,
   "files": {
-    "garmin_core.py.enc": "4929021ecd8c0f75a6a94837dad57fbf0e422a27057d2d554fd3d43b04dd1c2a",
-    "server.py.enc": "38391b3d0daceb4589b40d441811316a29219d52c6f45cc46fcf6220ef48397f",
-    "dashboard.py.enc": "f19f5063c5fbc227d8a50464f372c89a3948d354048e7cff2d1dfcfeb79eb1be"
+    "garmin_core.py.enc": "c930a0876e04eaa95e0c66e725d901bf5033d6e533b36909c4883a6160ccefca",
+    "server.py.enc": "8af654c85b868ebc97b8da480176e99490e4c8644ff526a16cce4e410f9c09e4",
+    "dashboard.py.enc": "5edd712024f74b230d3175b6116da3debf8b56da94cf2b90db179e8fcdc9d5b0"
   }
 }
